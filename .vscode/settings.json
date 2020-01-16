@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/usr/local/conda3/bin/python",
+    "python.pythonPath": "~/flask1/flask-venv/bin/python3",
     "python.venvPath": "~/flask1/flask-venv/",
     "python.formatting.yapfPath": "~/flask1/flask-venv/bin/yapf",
     "python.formatting.provider": "yapf"
